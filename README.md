@@ -92,7 +92,6 @@ graph
 
 Becomes:
 
-```md
 ### Some markdown
 ![diagram](./readme-1.svg)
 
@@ -101,7 +100,6 @@ Becomes:
 
 ### Mermaid with custom title/desc
 ![My description here](./readme-3.svg "My title here")
-```
 
 ### Piping from stdin
 
